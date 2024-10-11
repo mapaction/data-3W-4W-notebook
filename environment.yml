@@ -5,6 +5,4 @@ dependencies:
   - python=3.11
   - numpy
   - pathlib
-  - datetime
-  - pprint
   - pandas
